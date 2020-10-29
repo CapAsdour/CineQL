@@ -1,13 +1,13 @@
 {
-  "name": "movieql",
+  "name": "CineQL",
   "version": "1.0.0",
-  "description": "Movie API with Graphql",
+  "description": "Movie API with GraphQL",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
   },
-  "repository": "https://github.com/vishwajeetraj11/movieql",
-  "author": "Vishwajeet Raj",
+  "repository": "https://github.com/CapAsdour/CineQL",
+  "author": "Asit Kumar",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
